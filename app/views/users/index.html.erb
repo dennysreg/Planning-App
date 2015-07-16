@@ -1,0 +1,33 @@
+<h1> Listando usuarios</h1>
+	<% flash.each do |key,value| %>
+		<div><%= value %></div>
+	<% end %>
+
+<table>
+
+<tr>
+	<td>Nombre</td>
+	<td>Email</td>
+</tr>
+
+<% @usuarios.each do |usuario| %>
+	<tr>
+	<!--metodos generadores de url, Nombrel del router: usuario -> url:/users/1  -->
+		<td> <%= link_to usuario.nombre, usuario %></td>
+		<td> <%= usuario.email %></td>
+		<!--metodos generadores de url, Nombrel del router: edit_user_path(usuario) -> url:/users/1/edit  -->
+		<td> <%= link_to "Editar", edit_user_path(usuario) %> </td>
+		<td> <%= link_to "Eliminar", usuario, method: :delete, confirm: "Estas seguro?"  %> </td>
+
+	</tr>
+<% end %>
+
+<% if @usuarios.size == 0  %>
+	USUARIOS NO ENCONTRADOS
+<% end%>
+
+</table>
+<!-- users/new -->
+<%= link_to "Nuevo usuario", new_user_path %>
+<%= link_to 'Registrar', '/signup' %>
+

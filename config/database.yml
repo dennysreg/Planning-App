@@ -1,0 +1,7 @@
+development:
+ adapter: sqlserver
+ dsn: mydnstest
+ mode: odbc
+ database: bigs_repositorio
+ username: testuser
+ password:

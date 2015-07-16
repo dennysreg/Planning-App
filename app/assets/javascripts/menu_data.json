@@ -1,0 +1,280 @@
+{
+  "nodos": [
+    {
+      "id": 9,
+      "level": 5,
+      "name": "Bajío",
+      "nodos": [
+        {
+          "nodos": [
+            {
+              "nodos": [
+                {
+                  "id": 134,
+                  "level": 2,
+                  "name": "HACIENDA SAN MARCOS",
+                  "nodos": [
+                    {
+                      "level": 1,
+                      "id": 699,
+                      "name": "SAN DIEGO"
+                    },
+                    {
+                      "level": 1,
+                      "id": 702,
+                      "name": "SAN MARCOS"
+                    },
+                    {
+                      "level": 1,
+                      "id": 828,
+                      "name": "SAN CARLOS (PLANTA ALTA)"
+                    }
+                  ]
+                },
+                {
+                  "id": 135,
+                  "level": 2,
+                  "name": "RANCHO SAN MIGUEL",
+                  "nodos": [
+                    {
+                      "level": 1,
+                      "id": 396,
+                      "name": "CAOBA"
+                    },
+                    {
+                      "level": 1,
+                      "id": 397,
+                      "name": "MEZQUITE"
+                    },
+                    {
+                      "level": 1,
+                      "id": 398,
+                      "name": "NOGAL"
+                    }
+                  ]
+                },
+                {
+                  "id": 337,
+                  "level": 2,
+                  "name": "RANCHO SAN MIGUEL II",
+                  "nodos": [
+                    {
+                      "level": 0,
+                      "id": 1360,
+                      "name": "TABACHIN"
+                    }
+                  ]
+                }
+              ],
+              "id": 6,
+              "level": 3,
+              "name": "Aguascalientes"
+            }
+          ],
+          "id": 2,
+          "level": 4,
+          "name": "Aguascalientes"
+        },
+        {
+          "id": 13,
+          "level": 4,
+          "name": "Guanajuato",
+          "nodos": {
+            "id": 7,
+            "level": 3,
+            "name": "León",
+            "nodos": {
+              "id": 160,
+              "level": 2,
+              "name": "LA LOMA",
+              "nodos": [
+                {
+                  "level": 1,
+                  "id": 508,
+                  "name": "DEPARTAMENTO PENT HOUSE"
+                },
+                {
+                  "level": 1,
+                  "id": 995,
+                  "name": "DEPARTAMENTO PB SIN TERRAZA"
+                },
+                {
+                  "level": 1,
+                  "id": 996,
+                  "name": "DEPARTAMENTO PB CON TERRAZA"
+                },
+                "CEDRO"
+              ]
+            }
+          }
+        },
+        {
+          "id": 23,
+          "level": 4,
+          "name": "Querétaro",
+          "nodos": {
+            "level": 3,
+            "id": 11,
+            "name": "Querétaro",
+            "nodos": {
+              "id": 184,
+              "level": 2,
+              "name": "PASEOS DEL BOSQUE",
+              "nodos": [
+                {
+                  "level": 1,
+                  "id": 808,
+                  "name": "FRESNO"
+                },
+                {
+                  "level": 1,
+                  "id": 809,
+                  "name": "MAPLE"
+                },
+                {
+                  "level": 1,
+                  "id": 810,
+                  "name": "NARANJO"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "level": 5,
+      "name": "Noreste",
+      "nodos": [
+        {
+          "id": 29,
+          "level": 4,
+          "name": "Tamaulipas",
+          "nodos": [
+            {
+              "id": 8,
+              "level": 3,
+              "name": "Matamoros",
+              "nodos": [
+                {
+                  "id": 163,
+                  "level": 2,
+                  "name": "JARDINES DE SAN FELIPE",
+                  "nodos": [
+                    {
+                      "level": 1,
+                      "id": 1035,
+                      "name": "SAN ANTONIO"
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "name": "ARBOLEDAS DEL RIO",
+                  "prototipos": [
+                    {
+                      "level": 1,
+                      "id": 514,
+                      "name": "SANTA ELISA"
+                    },
+                    {
+                      "level": 1,
+                      "id": 515,
+                      "name": "SANTA EVA"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "level": 3,
+              "name": "Reynosa",
+              "nodos": [
+                {
+                  "id": 186,
+                  "level": 2,
+                  "name": "LOMA REAL",
+                  "nodos": [
+                    {
+                      "level": 1,
+                      "name": "SAN ANGEL",
+                      "id": 628
+                    },
+                    {
+                      "level": 1,
+                      "name": "SAN ANTONIO",
+                      "id": 629
+                    },
+                    {
+                      "level": 1,
+                      "name": "SAN FERNANDO",
+                      "id": 630
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "id": 187,
+                  "name": "SENDAS RESIDENCIAL",
+                  "nodes": [
+                    {
+                      "level": 1,
+                      "name": "CAOBA",
+                      "id": 1361
+                    }
+                  ]
+                },
+                {
+                  "level": 2,
+                  "id": 189,
+                  "name": "VISTA HERMOSA",
+                  "nodes": [
+                    {
+                      "level": 1,
+                      "name": "SANTA ELISA",
+                      "id": 645
+                    },
+                    {
+                      "level": 1,
+                      "name": "SANTA MARIA",
+                      "id": 646
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "level": 4,
+          "name": "Nuevo Léon",
+          "nodos": {
+            "id": 3,
+            "level": 3,
+            "name": "Monterrey",
+            "nodos": {
+              "id": 167,
+              "level": 4,
+              "name": "PASEO DEL PRADO",
+              "nodos": [
+                {
+                  "level": 1,
+                  "id": 546,
+                  "name": "SAN PASCUAL"
+                },
+                {
+                  "id": 548,
+                  "name": "SAN GABRIEL",
+                  "level": 1
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

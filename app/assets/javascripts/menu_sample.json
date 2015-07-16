@@ -1,0 +1,248 @@
+{
+  "Noreste": {
+    "id": 8,
+    "Nuevo Léon": {
+      "id": 20,
+      "Monterrey": {
+        "id": 3,
+        "LA RIOJA PRIVADAS RESIDENCIALES": {
+          "id": 165,
+          "prototipos": [
+            {
+              "id": 1036,
+              "name": "SANTA ELENA"
+            },
+            {
+              "id": 1037,
+              "name": "SANTA PAULA"
+            }
+          ]
+        },
+        "PASEO DEL PRADO": [
+          "SAN GABRIEL",
+          "SAN PASCUAL"
+        ],
+        "RIBERAS DE CAPELLANIA": [
+          "SAN JUAN"
+        ],
+        "SAN BENITO DEL LAGO": [
+          "SANTA ADELA",
+          "SANTA BARBARA",
+          "SANTA ENGRACIA",
+          "SANTA LUCIA",
+          "SANTA VICTORIA PLUS",
+          "SANTA REGINA",
+          "SANTA RITA",
+          "SANTA VICTORIA"
+        ],
+        "SIERRA VISTA": [
+          "SANTA BEATRIZ",
+          "SANTA MONICA",
+          "SANTA PRISCILA",
+          "SANTA CATALINA",
+          "CASETA DE VENTAS",
+          "SAN PABLO",
+          "CATALINA 2R"
+        ],
+        "VILLAS DE LA HACIENDA": [
+          "SAN FERNANDO",
+          "SAN PABLO",
+          "SANTA CATALINA",
+          "SAN GERARDO"
+        ]
+      }
+    },
+    "Tamaulipas": {
+      "Reynosa": {
+        "LOMA REAL": [
+          "SAN ANGEL",
+          "SAN ANTONIO",
+          "SAN FERNANDO",
+          "SAN LUIS",
+          "SAN MARTIN",
+          "SAN MARTIN ECONOMICA",
+          "SANTA EUGENIA",
+          "SAN PABLO",
+          "CASETA DE VENTAS",
+          "SAN PABLO AMPLIADA"
+        ],
+        "SENDAS RESIDENCIAL": [
+          "CAOBA"
+        ],
+        "VISTA HERMOSA": [
+          "CASETA DE VENTAS",
+          "SANTA ELISA",
+          "SANTA MARIA",
+          "TERRENO"
+        ]
+      },
+      "Matamoros": {
+        "ARBOLEDAS DEL RIO": [
+          "SANTA ELISA",
+          "SANTA EVA"
+        ],
+        "JARDINES DE SAN FELIPE": [
+          "SAN ANTONIO"
+        ]
+      },
+      "Nuevo Laredo": {
+        "BOSQUES DEL SUR": [
+          "SANTA ELISA",
+          "SANTA MARIA",
+          "SANTA MARINA",
+          "SANTA ROSALIA"
+        ],
+        "JARDINES DE LA HACIENDA": [
+          "SANTA MARIA"
+        ],
+        "SAN PATRICIO": [
+          "SANTA LUISA"
+        ]
+      }
+    }
+  },
+  "Bajío": {
+    "Aguascalientes": {
+      "Aguascalientes": {
+        "HACIENDA SAN MARCOS": [
+          "SAN DIEGO",
+          "SAN MARCOS",
+          "SAN CARLOS (PLANTA ALTA)",
+          "SAN CARLOS (PLANTA BAJA)",
+          "SAN CARLOS (PA)ECOLOGICA",
+          "SAN CARLOS (PB)ECOLOGICA",
+          "SAN CARLOS (CUADRUPLEX)",
+          "SAN MATEO",
+          "SAN MIGUEL"
+        ],
+        "RANCHO SAN MIGUEL": [
+          "CAOBA",
+          "MEZQUITE",
+          "NOGAL",
+          "OYAMEL",
+          "ROBLE",
+          "TABACHIN",
+          "ALAMO",
+          "ALAMO EQUIPADA",
+          "TABACHIN EQUIPADA"
+        ],
+        "RANCHO SAN MIGUEL II": [
+          "TABACHIN"
+        ]
+      }
+    },
+    "Guanajuato": {
+      "León": {
+        "ANTURIOS RESIDENCIAL": [
+          "CAOBA",
+          "CEDRO",
+          "ÉBANO",
+          "ROBLE",
+          "TABACHIN",
+          "ENCINO"
+        ],
+        "LA LOMA": [
+          "DEPARTAMENTO PENT HOUSE",
+          "DEPARTAMENTO PB CON TERRAZA",
+          "DEPARTAMENTO PB SIN TERRAZA",
+          "DEPARTAMENTO TIPO",
+          "CEDRO"
+        ]
+      }
+    },
+    "Querétaro": {
+      "Querétaro": {
+        "CIRUELOS": [
+          "SAN JOSE",
+          "OLMO"
+        ],
+        "LOS HEROES QUERETARO": [
+          "SAN JAVIER",
+          "SAN JAVIER ECOLOGICA",
+          "SAN MARIO",
+          "SAN PEDRITO FRACCIONAMIENTO",
+          "SAN PEDRITO EN CONDOMINIO",
+          "SAN MIGUEL",
+          "SAN MATEO",
+          "SÉXTUPLES INTERMEDIO",
+          "CUÁDRUPLES PLANTA ALTA",
+          "CUÁDRUPLES PLANTA BAJA",
+          "VIVIENDA HORIZONTAL",
+          "SAN MIGUEL (HEROES QUERETARO)",
+          "SAN PABLO (CUADRUPLEX)",
+          "SEXTUPLEX"
+        ],
+        "VIÑEDOS": [
+          "SAN PEDRITO EN CONDOMINIO",
+          "SAN MARIO",
+          "SAN MATEO PLUS",
+          "SAN MIGUEL COCHERA",
+          "SAN MIGUEL SIN COCHERA",
+          "SAN PEDRITO (FRACCIONAMIENTO)",
+          "SAN MIGUEL",
+          "OLMO",
+          "SAN ARTURO 3 REC"
+        ],
+        "PASEOS DEL BOSQUE": [
+          "FRESNO",
+          "MAPLE",
+          "NARANJO"
+        ]
+      }
+    }
+  },
+  "Norte": {
+    "Coahuila": {
+      "Torreón": {
+        "RESIDENCIAL SENDEROS (LAS SENDAS)": [
+          "SANTA TERESA",
+          "SANTA JULIA",
+          "SANTA CLARA",
+          "CASA MUESTRA"
+        ],
+        "LA RIOJA RESIDENCIAL SENDEROS": [
+          "SANTA FERNANDA"
+        ]
+      }
+    },
+    "Saltillo": {
+      "PASEO DE ANALCO": [
+        "SAN JAVIER"
+      ]
+    }
+  },
+  "Sur": {
+    "Quintana Roo": {
+      "Cancún": {
+        "JARDINES DEL SUR": [
+          "SAN ANTONIO",
+          "SAN JOSE",
+          "SAN VICENTE",
+          "SANTA CATALINA 2 REC.",
+          "SANTA CATALINA 3 REC.",
+          "SAN ARTURO 2 RECAMARAS",
+          "SAN ARTURO 3 RECAMRAS"
+        ],
+        "QUINTA MADEIRA": [
+          "CAROBA",
+          "CARVALHO",
+          "TAUARI"
+        ]
+      }
+    },
+    "Playa del Carmen": {
+      "LA JOYA": [
+        "PLATINUM COND LI",
+        "PLATINUM COND LP",
+        "PLATINUM UNI LI"
+      ],
+      "LOS OLIVOS": [
+        "ALMENDRO",
+        "CEIBA",
+        "FLAMBOYAN",
+        "AMATE",
+        "OKUME"
+      ]
+    }
+  }
+}
